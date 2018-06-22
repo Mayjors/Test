@@ -31,3 +31,4 @@ console.log('程序执行完毕.');
 
 eventListeners = eventEmitter.listeners(eventEmitter, 'connection');
 console.log(eventListeners);
+console.log("xxx");
